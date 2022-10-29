@@ -1,0 +1,4 @@
+*.log
+!joe.log
+joe.log
+joe2/
